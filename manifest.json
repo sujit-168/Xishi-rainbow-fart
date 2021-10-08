@@ -1,0 +1,219 @@
+{
+  "version": "0.0.3",
+  "name": "xishi-voice",
+  "display-name": "xishi 西施 (Chinese)",
+  "avatar": "avatars/a.jpg",
+  "avatar-dark": "avatars/b.jpg",
+  "description": "王 者 荣 耀 英 雄 西 施",
+  "author": "https://github.com/sujit-168",
+  "gender": "female",
+  "locale": "zh",
+  "languages": [
+    "javascript",
+    "python",
+    "C/C++"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+        "new",
+        "delete"
+      ],
+      "voices": [
+        "voices/嘿~诶嘿嘿~都听我的.mp3",
+        "voices/嘿~诶嘿嘿~说好了人头归你水晶归我.mp3",
+        "voices/嘿~诶嘿嘿~我一定听指挥.mp3",
+        "voices/嘿~诶嘿嘿~这下免费赠送.mp3",
+        "voices/嘿~哈~速战速决.mp3",
+        "voices/唉~这里已经没什么值得留恋的了.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "friend",
+        "class",
+        "vector",
+        "default",
+        "else",
+        "enum",
+        "explicit",
+        "extern",
+        "if",
+        "inline",
+        "namespace",
+        "operator",
+        "mutable",
+        "private",
+        "protected",
+        "public",
+        "register",
+        "return",
+        "static",
+        "struct",
+        "template",
+        "typedef",
+        "virtual",
+        "volatile",
+        "export"
+      ],
+      "voices": [
+        "voices/别怪我是命运~受伤.mp3",
+        "voices/大鱼我们好像在哪见过.mp3",
+        "voices/当心点~可别再走火了~每一种境遇都是命运的附赠品.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "setTimeout(",
+        "setInterval("
+      ],
+      "voices": [
+        "voices/该进货了~奇珍异宝大多低调花哨的外表怪会骗人.mp3",
+        "voices/花钱是为了更好的赚钱~也许毕业后我该去做个赏金游侠.mp3",
+        "voices/今夜三更过后你的手办尽数归我.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "from",
+        "import ",
+        "#include"
+      ],
+      "voices": [
+        "voices/闪闪发光的队长~你好.mp3",
+        "voices/少女怎么会拒绝闪耀的宝藏呢.mp3",
+        "voices/生活像一张蜘蛛网~我的任务就是钻他的空子.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "function ",
+        "() => "
+      ],
+      "voices": [
+        "voices/生命真是一种不可多得的财富.mp3",
+        "voices/无敌的你又迷路了.mp3",
+        "voices/无敌的你又迷路了~来抓我呀笨蛋.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if (",
+        " ? "
+      ],
+      "voices": [
+        "voices/耶~哎~你怎么又走丢了.mp3",
+        "voices/有家人的地方就是家.mp3",
+        "voices/有珍宝不如有眼光.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "else {",
+        "else:"
+      ],
+      "voices": [
+        "voices/又有人被控制了~无敌的人又迷路了.mp3",
+        "voices/这可是我的小秘密~最讨厌下雨天了.mp3",
+        "voices/最佳组合~勇气~实力~再加一些小小的花招.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "for (",
+        "while (",
+        "switch (",
+        "if ("
+      ],
+      "voices": [
+        "voices/最喜欢的是西施姐姐还是奕光姐姐.mp3",
+        "voices/最有价值之物给最珍贵之人.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "async "
+      ],
+      "voices": [
+        "voices/最喜欢的是西施姐姐还是奕光姐姐.mp3",
+        "voices/最有价值之物给最珍贵之人.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "await "
+      ],
+      "voices": [
+        "voices/又有人被控制了~无敌的人又迷路了.mp3",
+        "voices/这可是我的小秘密~最讨厌下雨天了.mp3",
+        "voices/最佳组合~勇气~实力~再加一些小小的花招.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "try{",
+        "try {",
+        "try:",
+        "throw"
+      ],
+      "voices": [
+        "voices/耶~哎~你怎么又走丢了.mp3",
+        "voices/有家人的地方就是家.mp3",
+        "voices/有珍宝不如有眼光.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "catch ",
+        "except:"
+      ],
+      "voices": [
+        "voices/生命真是一种不可多得的财富.mp3",
+        "voices/无敌的你又迷路了.mp3",
+        "voices/无敌的你又迷路了~来抓我呀笨蛋.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "continue\n",
+        "break\n",
+        "exit\n",
+        "finally"
+      ],
+      "voices": [
+        "voices/闪闪发光的队长~你好.mp3",
+        "voices/少女怎么会拒绝闪耀的宝藏呢.mp3",
+        "voices/生活像一张蜘蛛网~我的任务就是钻他的空子.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "return null",
+        "return\n",
+        "return 0"
+      ],
+      "voices": [
+        "voices/该进货了~奇珍异宝大多低调花哨的外表怪会骗人.mp3",
+        "voices/花钱是为了更好的赚钱~也许毕业后我该去做个赏金游侠.mp3",
+        "voices/今夜三更过后你的手办尽数归我.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "this.",
+        "self.",
+        "public",
+        "private",
+        "extends"
+      ],
+      "voices": [
+        "voices/嘿~诶嘿嘿~都听我的.mp3",
+        "voices/嘿~诶嘿嘿~说好了人头归你水晶归我.mp3",
+        "voices/嘿~诶嘿嘿~我一定听指挥.mp3",
+        "voices/嘿~诶嘿嘿~这下免费赠送.mp3",
+        "voices/嘿~哈~速战速决.mp3",
+        "voices/唉~这里已经没什么值得留恋的了.mp3"
+      ]
+    }
+  ]
+}
