@@ -16,9 +16,9 @@ Xishi⭐️ rainbow-fart ⭐️ 语音包
 
 ## Preview
 
-![image-20211008094141638](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211008094141638.png)
+![image-20211008094141638](https://raw.githubusercontent.com/sujit-168/Blog-Picture/main/Typora/202110082002362.png)
 
-![image-20211008094000709](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211008094000709.png)
+![image-20211008094000709](https://raw.githubusercontent.com/sujit-168/Blog-Picture/main/Typora/202110082002515.png)
 
 
 
@@ -30,15 +30,15 @@ Xishi⭐️ rainbow-fart ⭐️ 语音包
 
 导入完成的页面启用效果如下
 
-![image-20211008162012937](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211008162012937.png)
+![image-20211008162012937](https://raw.githubusercontent.com/sujit-168/Blog-Picture/main/Typora/202110082002709.png)
 
 
 
 ## Customize
 
-语音源文件：voices/
+语音源文件：[voices/](voices/)
 
-语音包配置文件：manifest.json
+语音包配置文件：[manifest.json](https://github.com/sujit-168/Xishi-rainbow-fart/blob/main/manifest.json)
 
 ## Reference
 
