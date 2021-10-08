@@ -26,7 +26,7 @@ Xishi⭐️ rainbow-fart ⭐️ 语音包
 
 选择Release下的.zip语音包下载到本地，点击导入后，出现如下图提示即为导入成功
 
-![image-20211008095644662](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211008095644662.png)
+![image-20211008095644662](https://raw.githubusercontent.com/sujit-168/Blog-Picture/main/Typora/202110082004969.png)
 
 导入完成的页面启用效果如下
 
